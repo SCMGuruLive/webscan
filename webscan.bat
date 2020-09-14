@@ -19,10 +19,6 @@ rem GNU Affero General Public License for more details.
 rem You should have received a copy of the GNU Affero General Public License
 rem along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-rem If you find this program useful, or you would like me to add a feature,
-rem please make a financial contribution at Patreon:
-rem https://www.patreon.com/helloscottm. Thank you.
-
 set NumberAddresses=254
 set FirstOctet=192
 set SecondOctet=168
