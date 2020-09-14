@@ -3,8 +3,6 @@
 rem webscan.bat
 rem Copyright (C) 2019  Scott C. MacCallum
 rem scott@scm.guru
-rem S C M Guru LLC: http://scm.guru/
-rem Hello Scott M: http://helloscottm.tv/
 
 rem This program scans a network using a web browser.
 
